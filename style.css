@@ -1,0 +1,11 @@
+body {
+    background-image: url(bg1st.jpg)
+}
+div {
+
+    position: fixed;
+    top: 75%;
+    left: 35%;
+    margin-top: -100px;
+    margin-left: -200px;
+}
